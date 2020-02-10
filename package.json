@@ -1,0 +1,14 @@
+{
+    "name": "csv-key-finder",
+    "version": "1.0.0",
+    "license": "MIT",
+    "bin": {
+        "search": "bin/search"
+    },
+    "scripts": {},
+    "devDependencies": {},
+    "dependencies": {
+        "csv-parser": "^2.3.2",
+        "minimist": "^1.2.0"
+    }
+}
