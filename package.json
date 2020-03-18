@@ -9,6 +9,6 @@
     "devDependencies": {},
     "dependencies": {
         "csv-parser": "^2.3.2",
-        "minimist": "^1.2.0"
+        "minimist": "^1.2.2"
     }
 }
